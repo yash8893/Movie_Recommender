@@ -1,0 +1,7 @@
+streamlit
+streamlit-searchbox
+pandas
+numpy
+scikit-learn
+joblib
+nltk
